@@ -12,3 +12,4 @@ if ($conn->connect_error) {
   die("Грешка при свързване: " . $conn->connect_error);
 }
 ?>
+//gfhdytr
